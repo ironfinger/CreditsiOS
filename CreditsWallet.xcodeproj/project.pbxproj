@@ -16,6 +16,7 @@
 		E3C24BC72181F2CF00939CC4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3C24BC62181F2CF00939CC4 /* Assets.xcassets */; };
 		E3C24BCA2181F2CF00939CC4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3C24BC82181F2CF00939CC4 /* LaunchScreen.storyboard */; };
 		E3C24BD32181F6FB00939CC4 /* TransactionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C24BD22181F6FB00939CC4 /* TransactionTableViewCell.swift */; };
+		F6E1915D21D6ECB700C119E2 /* HttpStuff.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6E1915C21D6ECB700C119E2 /* HttpStuff.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		E3C24BC92181F2CF00939CC4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E3C24BCB2181F2CF00939CC4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E3C24BD22181F6FB00939CC4 /* TransactionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionTableViewCell.swift; sourceTree = "<group>"; };
+		F6E1915C21D6ECB700C119E2 /* HttpStuff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HttpStuff.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E3C24BBC2181F2CE00939CC4 /* AppDelegate.swift */,
 				E3C24BBE2181F2CE00939CC4 /* ViewController.swift */,
 				E326AEB32189CA30008979FE /* SettingsViewController.swift */,
+				F6E1915C21D6ECB700C119E2 /* HttpStuff.swift */,
 				E3C24BC02181F2CE00939CC4 /* Main.storyboard */,
 				E3C24BC62181F2CF00939CC4 /* Assets.xcassets */,
 				E3C24BC82181F2CF00939CC4 /* LaunchScreen.storyboard */,
@@ -156,6 +159,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E3C24BBF2181F2CE00939CC4 /* ViewController.swift in Sources */,
+				F6E1915D21D6ECB700C119E2 /* HttpStuff.swift in Sources */,
 				E3AB3B3D218629F90081FFF4 /* WelcomeTableViewCell.swift in Sources */,
 				E3C24BBD2181F2CE00939CC4 /* AppDelegate.swift in Sources */,
 				E3C24BD32181F6FB00939CC4 /* TransactionTableViewCell.swift in Sources */,
